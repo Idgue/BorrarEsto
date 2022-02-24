@@ -4,3 +4,4 @@
 - Ávila
 - Cáceres
 - Madrid
+- Barcelona
